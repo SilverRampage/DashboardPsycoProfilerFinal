@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "DashboardPsycoProfiler", "DashboardPsycoProfiler\DashboardPsycoProfiler.esproj", "{F1AB76D4-047C-484F-84E8-9D4D5B7BA970}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1AB76D4-047C-484F-84E8-9D4D5B7BA970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1AB76D4-047C-484F-84E8-9D4D5B7BA970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1AB76D4-047C-484F-84E8-9D4D5B7BA970}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F1AB76D4-047C-484F-84E8-9D4D5B7BA970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1AB76D4-047C-484F-84E8-9D4D5B7BA970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1AB76D4-047C-484F-84E8-9D4D5B7BA970}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D716CC2B-D9AF-4B1D-9209-8F8747C8BC22}
+	EndGlobalSection
+EndGlobal
